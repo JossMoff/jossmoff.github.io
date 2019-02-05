@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Amaranth-Regular';
+  src: url('Amaranth-Regular.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Amaranth-Bold';
+  src: url('Amaranth-Bold.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
