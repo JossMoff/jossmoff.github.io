@@ -4,6 +4,7 @@ email: josshmoffatt@gmail.com
 description: SQE I @ Capital One.
 favicon: true
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+hide_project_page: true
 
 url: "https://joss.dev/"
 
