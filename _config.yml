@@ -1,0 +1,25 @@
+title: Joss Moffatt
+logo: /assets/me.jpeg
+email: josshmoffatt@gmail.com
+description: SQE I @ Capital One.
+favicon: true
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+url: "https://joss.dev/"
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/jossmoff
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/joss-moffatt/
+  - name: Projects
+    icon: <i class="fa-solid fa-file-code"></i>
+    link: ./projects
